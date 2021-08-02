@@ -1,6 +1,6 @@
 ## Info
 
-This is the project for the course EP2420 Network Analytics at KTH. The full report can be found in the [report](https://github.com/yangBryants/AML-assignment1-programming-task/blob/main/report.pdf).
+This is the project for the course EP2420 Network Analytics at KTH. The full report can be found in the [report](https://github.com/cylead/dimensionality-reduction-on-networked-system-data/blob/main/report.pdf).
 
 In this project, we (me together with Jie Huang) investigate and compare different methods to reduce the dimensionality of the feature space of networked system data.  
 
